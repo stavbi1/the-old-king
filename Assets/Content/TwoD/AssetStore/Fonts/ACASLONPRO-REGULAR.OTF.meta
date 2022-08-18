@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5437fcdbc878dcc49a3994f3652af69b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adobe Caslon Pro
+  fontNames:
+  - Adobe Caslon Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02ffdc314a906304896604a55e8ddceb, type: 3}
+  - {fileID: 12800000, guid: 12b0ae0433771e042850442dc988f168, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

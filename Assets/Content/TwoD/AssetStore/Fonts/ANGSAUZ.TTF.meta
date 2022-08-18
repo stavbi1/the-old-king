@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fe4ca3958cfb13749b0c63f8897ea957
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AngsanaUPC
+  fontNames:
+  - AngsanaUPC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ecd886f48fcef4f43b267490536f7a18, type: 3}
+  - {fileID: 12800000, guid: 6ebd9b158159fbd4094b3518f4ef2fc4, type: 3}
+  - {fileID: 12800000, guid: 2b20524eb04bd2e4aac7311db72bfb01, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

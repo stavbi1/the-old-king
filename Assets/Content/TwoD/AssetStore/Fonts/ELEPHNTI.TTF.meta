@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f0c0b1049bde7ed41a9c567a46c4a6c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elephant
+  fontNames:
+  - Elephant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cad9ffde26e60744990ea58cfbe0b1e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

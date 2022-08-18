@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Camera",
+    "\\Entity",
+    "\\Mobs\\Wolf",
+    "\\Player",
+    "\\UI"
+  ],
+  "SelectedNode": "\\Entity\\Entity.cs",
+  "PreviewInSolutionExplorer": false
+}
